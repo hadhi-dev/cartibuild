@@ -20,7 +20,29 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
   useEffect(() => {
-    setLandingPageData(JsonData);
+    const fetchData = async () => {
+      const url = "https://raahtechservices.com/api/v1/rts.php";
+      try {
+        const response = await fetch(url, {
+          method: "POST",
+          body: JSON.stringify({ data: 1 }),
+          headers: {
+            "Content-Type": "application/json",
+          },
+        });
+
+        if (!response.ok) {
+          throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        const responseJson = await response.json();
+        setLandingPageData(responseJson.data);
+      } catch (error) {
+        setLandingPageData(JsonData);
+        console.error("🚀 ~ file: App.jsx:36 ~ useEffect ~ error:", error);
+      }
+    };
+
+    fetchData();
   }, []);
 
   return (
