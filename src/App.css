@@ -16,3 +16,28 @@
     width: 110%;
   }
 }
+
+.hero-section {
+  background-size: cover;
+  background-position: center;
+  height: 600px; /* Adjust the height as needed */
+  display: flex;
+  align-items: center;
+  color: #fff; /* Set text color to match your background image */
+}
+
+
+.content {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7); /* Add a semi-transparent overlay to make text readable */
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .hero-section {
+  width: 110%;
+  }
+}

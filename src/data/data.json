@@ -1,192 +1,150 @@
 {
   "Header": {
-    "title": "Professional Solutions For Your Business.",
-    "paragraph": "Welcome to Raah Tech Services! We provide innovative IT solutions. With a customer-centric approach and vast industry experience, we maximize your online presence and achieve unparalleled success. Partner with us to unlock your business's full potential in today's competitive landscape. Let's pave your way to excellence in technology and beyond."
+      "title": "Professional Solutions For Your Business.",
+      "paragraph": "Welcome to Raah Tech Services! We provide innovative IT solutions. With a customer-centric approach and vast industry experience, we maximize your online presence and achieve unparalleled success. Partner with us to unlock your business's full potential in today's competitive landscape. Let's pave your way to excellence in technology and beyond."
   },
-  "About":  {
-    "paragraph": "At Raah Tech Services, we are dedicated to providing top-quality consulting services for the software industry. Our team of experienced professionals strives to match talented developers with the right companies, ensuring a perfect fit for both parties.",
-    "Why": [
-      "Expertise in Software Industry",
-      "Customized Solutions",
-      "Time-Efficient Process",
-      "Strong Industry Connections",
-      "Client Feedback and Satisfaction"
-    ],
-    "Why2": [
-      "Cost-Effective Hiring",
-      "Dedicated Project Managers",
-      "Continuous Support",
-      "Global Talent Reach",
-      "Data Security Measures"
-    ]
+  "About": {
+      "paragraph": "At Raah Tech Services, we are dedicated to providing top-quality consulting services for the software industry. Our team of experienced professionals strives to match talented developers with the right companies, ensuring a perfect fit for both parties.",
+      "Why": [
+          "Expertise in Software Industry",
+          "Customized Solutions",
+          "Time-Efficient Process",
+          "Strong Industry Connections",
+          "Client Feedback and Satisfaction"
+      ],
+      "Why2": [
+          "Cost-Effective Hiring",
+          "Dedicated Project Managers",
+          "Continuous Support",
+          "Global Talent Reach",
+          "Data Security Measures"
+      ]
   },
   "Gallery": [
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
-    }
+      {
+          "title": "Project Title",
+          "largeImage": "img/portfolio/01-large.jpg",
+          "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+          "title": "Project Title",
+          "largeImage": "img/portfolio/02-large.jpg",
+          "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+          "title": "Project Title",
+          "largeImage": "img/portfolio/03-large.jpg",
+          "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+          "title": "Project Title",
+          "largeImage": "img/portfolio/04-large.jpg",
+          "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+          "title": "Project Title",
+          "largeImage": "img/portfolio/05-large.jpg",
+          "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+          "title": "Project Title",
+          "largeImage": "img/portfolio/06-large.jpg",
+          "smallImage": "img/portfolio/06-small.jpg"
+      },
+      {
+          "title": "Project Title",
+          "largeImage": "img/portfolio/07-large.jpg",
+          "smallImage": "img/portfolio/07-small.jpg"
+      },
+      {
+          "title": "Project Title",
+          "largeImage": "img/portfolio/08-large.jpg",
+          "smallImage": "img/portfolio/08-small.jpg"
+      },
+      {
+          "title": "Project Title",
+          "largeImage": "img/portfolio/09-large.jpg",
+          "smallImage": "img/portfolio/09-small.jpg"
+      }
   ],
   "Services": [
-    {
-      "icon": "fa fa-users",
-      "name": "Talent Recruitment",
-      "text": "Discover and recruit top IT talent. Perfectly match skilled developers with companies."
-    },
-    {
-      "icon": "fa fa-briefcase",
-      "name": "Staffing Solutions",
-      "text": "Flexible staffing for your projects. Access skilled professionals on demand."
-    },
-    {
-      "icon": "fa fa-graduation-cap",
-      "name": "Training & Development",
-      "text": "Specialized training to boost developer skills. Stay updated with latest technologies."
-    },
-    {
-      "icon": "fa fa-cogs",
-      "name": "Project Delivery",
-      "text": "Efficient project planning and execution. Deliver software on time and on budget."
-    },
-    {
-      "icon": "fa fa-globe",
-      "name": "Global Talent Sourcing",
-      "text": "Source diverse talent worldwide. Enhance your development team's perspective."
-    },
-    {
-      "icon": "fa fa-comments",
-      "name": "Client Relations",
-      "text": "Build strong client relationships. Provide personalized support and solutions."
-    }
-  ]  
-  ,
+      {
+          "icon": "fa fa-users",
+          "name": "Talent Recruitment",
+          "text": "Discover and recruit top IT talent. Perfectly match skilled developers with companies."
+      },
+      {
+          "icon": "fa fa-briefcase",
+          "name": "Staffing Solutions",
+          "text": "Flexible staffing for your projects. Access skilled professionals on demand."
+      },
+      {
+          "icon": "fa fa-graduation-cap",
+          "name": "Training & Development",
+          "text": "Specialized training to boost developer skills. Stay updated with the latest technologies."
+      },
+      {
+          "icon": "fa fa-cogs",
+          "name": "Project Delivery",
+          "text": "Efficient project planning and execution. Deliver software on time and on budget."
+      },
+      {
+          "icon": "fa fa-globe",
+          "name": "Global Talent Sourcing",
+          "text": "Source diverse talent worldwide. Enhance your development team's perspective."
+      },
+      {
+          "icon": "fa fa-comments",
+          "name": "Client Relations",
+          "text": "Build strong client relationships. Provide personalized support and solutions."
+      }
+  ],
   "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
+      {
+          "img": "img/testimonials/01.jpg",
+          "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+          "name": "John Doe"
+      }
   ],
   "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
-    }
+      {
+          "img": "img/team/01.jpg",
+          "name": "John Doe",
+          "job": "Director"
+      }
   ],
   "Contact": {
-    "phone": "+91 - 4179357619",
-    "email": "info@raahtechservices.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com",
-    "serviceID":"service_8x8b485",
-    "templateID":"template_ip5c8ta",
-    "mailUserID":"Pz_lZ2kDYxO3-69BH",
-    "whatsAppNumber":"919876543210",
-    "whatsAppMsg":"Hi! I'm interested in your services. Can you provide more information about what you offer? \n https://hadhi-dev.github.io/raah/"
+      "phone": "+91 - 90951 28786",
+      "email": "info@raahtechservices.com",
+      "facebook": "fb.com",
+      "twitter": "twitter.com",
+      "youtube": "youtube.com",
+      "serviceID": "service_8x8b485",
+      "templateID": "template_ip5c8ta",
+      "mailUserID": "Pz_lZ2kDYxO3-69BH",
+      "whatsAppNumber": "919095128786",
+      "whatsAppMsg": "Hi! I'm interested in your services. Can you provide more information about what you offer? \n https://raahtechservices.com/"
   },
   "Features": [
-    {
-      "title": "Talent Recruitment",
-      "text": "Access to a vast pool of talented developers. Customized candidate search.",
-      "icon": "fa fa-users"
-    },
-    {
-      "title": "Industry Expertise",
-      "text": "Specialized knowledge in software and IT. Match developers to companies in various domains.",
-      "icon": "fa fa-briefcase"
-    },
-    {
-      "title": "Quality Assurance",
-      "text": "Rigorous assessment of technical and soft skills. Top-notch talent with a proven track record.",
-      "icon": "fa fa-check-circle-o"
-    },
-    {
-      "title": "Client-Centric Approach",
-      "text": "Focus on understanding your goals. Proactive in addressing your requirements.",
-      "icon": "fa fa-heart"
+      {
+          "title": "Talent Recruitment",
+          "text": "Access to a vast pool of talented developers. Customized candidate search.",
+          "icon": "fa fa-users"
+      },
+      {
+          "title": "Industry Expertise",
+          "text": "Specialized knowledge in software and IT. Match developers to companies in various domains.",
+          "icon": "fa fa-briefcase"
+      },
+      {
+          "title": "Quality Assurance",
+          "text": "Rigorous assessment of technical and soft skills. Top-notch talent with a proven track record.",
+          "icon": "fa fa-check-circle-o"
+      },
+      {
+        "title": "Trainings & Internships",
+        "text": "Unlock your potential with our comprehensive IT training and internship programs.",
+        "icon": "fa fa-book"
     }
   ]
-  
 }

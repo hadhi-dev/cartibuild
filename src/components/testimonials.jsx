@@ -2,28 +2,13 @@ import React from "react";
 
 export const Testimonials = (props) => {
   return (
-    <div id="testimonials">
+    <div id="testimonials" style={{background:"#FFFFFF"}}>
       <div className="container">
         <div className="section-title text-center">
-          <h2>What our clients say</h2>
-        </div>
-        <div className="row">
-          {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4">
-                  <div className="testimonial">
-                    <div className="testimonial-image">
-                      
-                      <img src={d.img} alt="" />
-                    </div>
-                    <div className="testimonial-content">
-                      <p>"{d.text}"</p>
-                      <div className="testimonial-meta"> - {d.name} </div>
-                    </div>
-                  </div>
-                </div>
-              ))
-            : "loading"}
+          <h2>Exciting Courses Coming Soon</h2>
+          <h4>Stay tuned for our upcoming courses!</h4>
+        <img alt="" style={{width:"300px"}}
+        src="https://cdn.dribbble.com/users/702028/screenshots/6514267/time-animation_1.gif"/>
         </div>
       </div>
     </div>
